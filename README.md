@@ -39,9 +39,9 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 Here are some of my notable projects:
 
-- **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A brief description of your project.
-- **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A brief description of your project.
-- **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - A brief description of your project.
+- **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A Chat website made with django!.
+- **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A simple Front-end E-commerce website.
+- **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - a simple widget-like weatherApp.
 
 ## 📫 How to Reach Me
 
