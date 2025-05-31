@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!
+# 👋 Hi, I’m [Shahrad]!
 
 I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, Django, React, and Next.js**. I love building modern, responsive, and scalable web applications.
 
