@@ -39,6 +39,7 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 Here are some of my notable projects:
 
+- **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet) - an application allowing multiple computers to merge their clipboards together over local internet**
 - **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A Chat website made with django!.
 - **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A simple Front-end E-commerce website.
 - **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - a simple widget-like weatherApp.
