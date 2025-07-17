@@ -4,6 +4,10 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 ## 🛠️ Technologies & Tools
 
+### General
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,6 +32,7 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -39,14 +44,14 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 Here are some of my notable projects:
 
-- **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet) - an application allowing multiple computers to merge their clipboards together over local internet**
+- **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet)** - an application allowing multiple computers to merge their clipboards together over local internet
 - **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A Chat website made with django!.
 - **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A simple Front-end E-commerce website.
 - **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - a simple widget-like weatherApp.
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/shahrad-arian-nezhad)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/shahrad-arian-nezhad)
 - Email: ShahradArianNezhad@gmail.com
 
 ## 🎯 Currently Learning
@@ -59,13 +64,7 @@ Here are some of my notable projects:
 
 ⭐️ From [Shahrad Arian nezhad](https://github.com/ShahradArianNezhad)
 
----
 
-### 🔄 Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/ShahradArianNezhad/count.svg)
-
----
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat! 😊
 
