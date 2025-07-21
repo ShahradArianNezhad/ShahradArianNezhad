@@ -7,6 +7,7 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 ### General
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,6 +45,7 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 Here are some of my notable projects:
 
+- **[lightweight C text reader](https://github.com/ShahradArianNezhad/Terminal-text-reader)** - a very lightweight and memory efficient C-based text reader application
 - **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet)** - an application allowing multiple computers to merge their clipboards together over local internet
 - **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A Chat website made with django!.
 - **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A simple Front-end E-commerce website.
