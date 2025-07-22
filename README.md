@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shahrad!
 
-I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, Django, React, and Next.js**. I love building modern, responsive, and scalable web applications.
+Tech enthusiast and relentless coder on a mission to turn caffeine into algorithms, im a computer science student and a very passionate programmer, eager to learn new technologies and build new apps
 
 ## 🛠️ Technologies & Tools
 
@@ -37,8 +37,6 @@ I'm a passionate **Web Developer** with expertise in **JavaScript, TypeScript, D
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahradArianNezhad&show_icons=true&theme=radical)](https://github.com/ShahradArianNezhad)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahradArianNezhad&layout=compact&theme=radical)](https://github.com/ShahradArianNezhad)
 
 ## 🔥 My Projects
@@ -47,9 +45,9 @@ Here are some of my notable projects:
 
 - **[lightweight C text reader](https://github.com/ShahradArianNezhad/Terminal-text-reader)** - a very lightweight and memory efficient C-based text reader application
 - **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet)** - an application allowing multiple computers to merge their clipboards together over local internet
-- **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A Chat website made with django!.
-- **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A simple Front-end E-commerce website.
-- **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - a simple widget-like weatherApp.
+- **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A ChatRoom website made with django.
+- **[E-commeerce website made with react](https://github.com/ShahradArianNezhad/React-Ecommerce-Website)** - A fron-end E-commerce website with search functionality.
+- **[Weather app with API](https://github.com/ShahradArianNezhad/weatherApp)** - a small compact widget for looking up weater in diffrent locations using an API.
 
 ## 📫 How to Reach Me
 
