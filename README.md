@@ -37,7 +37,7 @@ Tech enthusiast and relentless coder on a mission to turn caffeine into algorith
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahradArianNezhad&layout=compact&theme=radical&hide=HTML)](https://github.com/ShahradArianNezhad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahradArianNezhad&layout=compact&theme=radical&hide=HTML,CSS)](https://github.com/ShahradArianNezhad)
 
 ## 🔥 My Projects
 
