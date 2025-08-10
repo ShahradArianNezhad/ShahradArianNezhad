@@ -43,6 +43,7 @@ Tech enthusiast and relentless coder on a mission to turn caffeine into algorith
 
 Here are some of my notable projects:
 
+- **[a MERN Fullstack todolist app](https://github.com/ShahradArianNezhad/TodoList)** - a todolist app made with typescript and express and also with the help of mongodb
 - **[lightweight C text reader](https://github.com/ShahradArianNezhad/Terminal-text-reader)** - a very lightweight and memory efficient C-based text reader application
 - **[Local Clipboard sharing](https://github.com/ShahradArianNezhad/clipboard-over-internet)** - an application allowing multiple computers to merge their clipboards together over local internet
 - **[Chat app project](https://github.com/ShahradArianNezhad/ChatApp)** - A ChatRoom website made with django.
