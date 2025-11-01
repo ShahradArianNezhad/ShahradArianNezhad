@@ -57,7 +57,7 @@ Here are some of my notable projects:
 
 ## 🎯 Currently Learning
 
-- **C/C++**
+- **Rust/C++**
 - **CyberSecurity/Pentesting**
 - **Deep/Machine learning**
 
